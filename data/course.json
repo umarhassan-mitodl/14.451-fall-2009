@@ -35,6 +35,7 @@
     "website": "14-451-dynamic-optimization-methods-with-applications-fall-2009"
   },
   "course_title": "Dynamic Optimization Methods with Applications",
+  "hide_download": true,
   "course_description": "This course focuses on dynamic optimization methods, both in discrete and in continuous time. We approach these problems from a dynamic programming and optimal control perspective. We also study the dynamic systems that come from the solutions to these problems. The course will illustrate how these techniques are useful in various applications, drawing on many economic examples. However, the focus will remain on gaining a general command of the tools so that they can be applied later in other classes.\n",
   "department_numbers": [
     "14"
@@ -45,6 +46,7 @@
     "content": "dfc9a8ac-cd7e-ae42-0548-948ae17b7076",
     "website": "14-451-dynamic-optimization-methods-with-applications-fall-2009"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

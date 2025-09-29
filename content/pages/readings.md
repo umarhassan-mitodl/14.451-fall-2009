@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the required and recommended textbooks
   for the course along with the schedule of readings by lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +18,7 @@ Textbooks
 
 \[SLP\] = Stokey, Nancy L., and Robert E. Lucas, Jr., with Edward C. Prescott. _Recursive Methods in Economic Dynamics_. Cambridge, MA: Harvard University Press, 1989. ISBN: 9780674750968.
 
-\[Acemoglu\] = Acemoglu, Daron. _{{% resource_link "e6e203d5-37b7-4cc4-93b7-e638f8dbcd77" "Introduction to Modern Economic Growth" %}}_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691132921.
+\[Acemoglu\] = Acemoglu, Daron. _[Introduction to Modern Economic Growth](http://press.princeton.edu/titles/8764.html)_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691132921.
 
 ### Recommended
 

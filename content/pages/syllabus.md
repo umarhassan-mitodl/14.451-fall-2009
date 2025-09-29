@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, requirements, grading, and the schedule
   of lecture topics and key dates for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +37,7 @@ Textbooks
 
 Stokey, Nancy L., and Robert E. Lucas, Jr., with Edward C. Prescott. _Recursive Methods in Economic Dynamics_. Cambridge, MA: Harvard University Press, 1989. ISBN: 9780674750968.
 
-Acemoglu, Daron. _{{% resource_link "e6e203d5-37b7-4cc4-93b7-e638f8dbcd77" "Introduction to Modern Economic Growth" %}}_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691132921.
+Acemoglu, Daron. _[Introduction to Modern Economic Growth](http://press.princeton.edu/titles/8764.html)_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691132921.
 
 ### Recommended
 
