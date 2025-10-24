@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the required and recommended textbooks
   for the course along with the schedule of readings by lecture session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

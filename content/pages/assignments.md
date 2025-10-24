@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the problem sets for the course along with information
   on topics covered and additional notes on the third problem set.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
