@@ -35,7 +35,7 @@ Textbooks
 
 Stokey, Nancy L., and Robert E. Lucas, Jr., with Edward C. Prescott. _Recursive Methods in Economic Dynamics_. Cambridge, MA: Harvard University Press, 1989. ISBN: 9780674750968.
 
-Acemoglu, Daron. _[Introduction to Modern Economic Growth](http://press.princeton.edu/titles/8764.html)_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691132921.
+Acemoglu, Daron. _{{% resource_link "ab1fd998-a06b-4106-a4f3-d096833dd628" "Introduction to Modern Economic Growth" %}}_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691132921.
 
 ### Recommended
 
